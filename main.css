@@ -1,0 +1,14 @@
+img {
+    height: 2rem;
+}
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: black;
+}
+
+h1{
+    color: burlywood;
+}
